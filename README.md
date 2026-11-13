@@ -1,3 +1,31 @@
+# 📦 Zen Fence - Desktop Icon Organizer & Fence Manager
+
+**Developer:** [Serkan ŞENTÜRK](https://github.com/836982756578)  
+**Copyright:** © 2026 Serkan ŞENTÜRK. All Rights Reserved.  
+**License:** MIT  
+**Platform:** Windows 10 / 11 (64-bit & 32-bit Portable)  
+
+> Organize desktop icons into clean, translucent shading areas (fences). Portable and ultra-lightweight alternative to Stardock Fences.
+
+---
+
+## 🇬🇧 English Documentation
+
+### ✨ Key Features
+* 🗂️ **Custom Shaded Fences:** Group shortcuts, documents, and tools into labeled, movable containers.
+* 🚪 **Folder Portals:** Display contents of any folder directly on your desktop.
+* 👻 **Roll-Up Mode:** Double-click a fence title bar to roll it up and save desktop space.
+* 🪶 **High Performance:** Zero background CPU usage and low RAM.
+
+### 📥 Download & Usage
+1. Download the latest portable .exe from the [Releases](https://github.com/836982756578/Zen-Fence/releases) section.
+2. Run directly — no installer or administrative privileges required.
+3. Enjoy an ultra-lightweight, native Windows experience!
+
+---
+
+## 🇹🇷 Türkçe Açıklama
+
 # ☯️ Zen Fence - Masaüstü Düzenleyici & Çit Yöneticisi
 
 **Geliştirici:** Serkan ŞENTÜRK  
